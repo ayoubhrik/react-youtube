@@ -1,7 +1,7 @@
 ## App Demo [Click Here >](https://unruffled-mccarthy-6e6d8a.netlify.app/)
 ## ScreenShots
 
-<img src="Screenshots/1.PNG" width="600" /><img src="Screenshots/2.PNG" width="400" /><img src="Screenshots/3.PNG" width="300" /><br><br>
+<img src="Screenshots/1.PNG" width="800" /><img src="Screenshots/2.PNG" width="400" />   <img src="Screenshots/3.PNG" width="300" /><br><br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
